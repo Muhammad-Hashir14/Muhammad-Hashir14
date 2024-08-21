@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-hashir14&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-hashir14" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Large Language Models (LLMS) **
 
 - 👨‍💻 All of my projects are available at [www.github.com/Muhammad-Hashir14](www.github.com/Muhammad-Hashir14)
 
